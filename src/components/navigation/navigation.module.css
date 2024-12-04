@@ -1,0 +1,52 @@
+.nav {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 6px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    max-width: 480px;
+
+    position: relative;
+}
+
+.nav__breadcrumbs {
+    list-style: none;
+    padding-left: 15px;
+
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+}
+
+.nav a {
+    color: #434238;
+    text-decoration: none;
+
+    font-weight: 300;
+}
+
+.nav__burgerMenu {
+    position: absolute;
+    width: 50%;
+
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    top: 100%;
+    left: 0;
+    background-color: #F1C62E;
+
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.burger__button {
+    background: none;
+    border: none;
+}

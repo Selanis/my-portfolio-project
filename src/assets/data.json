@@ -1,0 +1,217 @@
+{
+    "techSkills": [
+        {
+            "name": "React",
+            "logoLink": "react.svg"
+        },
+
+        {
+            "name": "Redux",
+            "logoLink": "redux.svg"
+        },
+
+        {
+            "name": "JavaScript",
+            "logoLink": "javascript.svg"
+        },
+
+        {
+            "name": "TypeScript",
+            "logoLink": "typescript.svg"
+        },
+
+        {
+            "name": "HTML",
+            "logoLink": "html.svg"
+        },
+
+        {
+            "name": "CSS",
+            "logoLink": "css.svg"
+        },
+
+        {
+            "name": "SCSS",
+            "logoLink": "scss.svg"
+        },
+
+        {
+            "name": "Cypress",
+            "logoLink": "cypress.svg"
+        },
+
+        {
+            "name": "Node.js",
+            "logoLink": "nodejs.svg"
+        },
+
+        {
+            "name": "Git",
+            "logoLink": "git.svg"
+        }
+    ],
+
+    "designSkills": [
+        {
+            "name": "Figma",
+            "logoLink": "figma.svg"
+        },
+
+        {
+            "name": "Photoshop",
+            "logoLink": "photoshop.svg"
+        },
+
+        {
+            "name": "Illustrator",
+            "logoLink": "illustrator.svg"
+        },
+
+        {
+            "name": "InDesign",
+            "logoLink": "indesign.svg"
+        },
+
+        {
+            "name": "After Effect",
+            "logoLink": "aftereffect.svg"
+        },
+
+        {
+            "name": "Blender",
+            "logoLink": "blender.svg"
+        }
+    ],
+
+    "portfolio": [
+        {
+            "name": "Stellar Burgers: разработка интерактивного сайта на React по готовому макету",
+            "image": "stellar-burger.png",
+            "tags": [
+                "вёрстка",
+                "react",
+                "redux",
+                "reactRouter",
+                "webSocket",
+                "reactDND",
+                "typescript"
+            ],
+            "link": "https://github.com/Selanis/react-burger"
+        },
+
+        {
+            "name": "NFT Website Landing Page: вёрстка по готовому макету",
+            "image": "nft.png",
+            "tags": [
+                "javascript",
+                "вёрстка"
+            ],
+            "link": "https://selanis.github.io/NFT/"
+        },
+
+        {
+            "name": "Real Estate Website Landing Page: вёрстка по готовому макету",
+            "image": "real-estate.png",
+            "tags": [
+                "вёрстка",
+                "bootstrap"
+            ],
+            "link": "https://selanis.github.io/Real-Estate/"
+        },
+
+        {
+            "name": "Aperture Website Landing Page: вёрстка по готовому макету",
+            "image": "aperture.png",
+            "tags": [
+                "вёрстка"
+            ],
+            "link": "https://selanis.github.io/aperture/"
+        },
+
+        {
+            "name": "Green Shop SPA: вёрстка сайта на React",
+            "image": "green-shop.png",
+            "tags": [
+                "вёрстка",
+                "react"
+            ],
+            "link": "https://selanis.github.io/GreenShop--React-/"
+        },
+
+        {
+            "name": "DB1 Website Landing Page: вёрстка по готовому макету",
+            "image": "db1.png",
+            "tags": [
+                "вёрстка",
+                "cssGrid"
+            ],
+            "link": "https://selanis.github.io/DB1/"
+        },
+
+        {
+            "name": "Mushroom Bear: Разработка Telegram стикеров",
+            "image": "mushroom-bear.png",
+            "tags": [
+                "photoshop",
+                "figma",
+                "иллюстрация"
+            ],
+            "link": "https://www.behance.net/gallery/169907565/Mushroom-Bear-(Telegram-Stickers)"
+        },
+
+        {
+            "name": "Разработка стикерпака для университета РТУ МИРЭА",
+            "image": "mirea-stickers.png",
+            "tags": [
+                "photoshop",
+                "figma",
+                "иллюстрация"
+            ],
+            "link": "https://disk.yandex.ru/d/160KwwwqB5AAtQ"
+        },
+
+        {
+            "name": "Сторителлинг: разработка и отрисовка небольшого комикса",
+            "image": "storytelling-comic.png",
+            "tags": [
+                "clipStudioPaint",
+                "photoshop",
+                "figma",
+                "иллюстрация"
+            ],
+            "link": "https://disk.yandex.ru/d/HWgGO9ZEUrjY8w"
+        },
+
+        {
+            "name": "Олимпиадный кейс по созданию персонажа за 7 часов ",
+            "image": "olympic-case.png",
+            "tags": [
+                "photoshop",
+                "figma",
+                "иллюстрация",
+                "олимпиада"
+            ],
+            "link": "https://disk.yandex.ru/i/yEwUBHcqj_lvmg"
+        },
+
+        {
+            "name": "Создание небольшой композиции в Blender",
+            "image": "blender-composition.png",
+            "tags": [
+                "blender",
+                "photoshop"
+            ],
+            "link": "https://disk.yandex.ru/i/y21FQpM8QAklbg"
+        },
+
+        {
+            "name": "Создание сцены с персонажем Bimo в Blender",
+            "image": "bimo-blender.png",
+            "tags": [
+                "blender",
+                "photoshop"
+            ],
+            "link": "https://disk.yandex.ru/i/4foNaXucX2f8Nw"
+        }
+    ]
+}

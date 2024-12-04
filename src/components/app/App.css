@@ -24,15 +24,18 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+
+/* Ползунок прокрутки */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 4px;
+  background-color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+::-webkit-scrollbar-thumb {
+background: black;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #F1C62E;
 }
